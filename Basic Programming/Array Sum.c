@@ -12,3 +12,4 @@ int main()
 	printf("%lld",tot);
 	return 0;
 }
+
